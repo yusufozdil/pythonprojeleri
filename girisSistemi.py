@@ -1,5 +1,5 @@
 kayitliKullanıcılar=["Yusuf"]
-yenikullanici=["Selami"]
+yenikullanici=[]
 soru=input("Kayıtlı Bir Kullanıcı Mısınız?(y/n): ")
 if soru=="y":
 
