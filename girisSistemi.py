@@ -1,9 +1,6 @@
 f = open("isimler.txt", "r")
 whatthereturn ="None"
 
-
-
-
 soru=input("Kayıtlı Bir Kullanıcı Mısınız?(y/n): ")
 if soru=="y":
 
