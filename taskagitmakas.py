@@ -3,7 +3,7 @@ secenek=["taş","kağıt","makas"]
 taş=secenek[0]
 kağıt=secenek[1]
 makas=secenek[2]
-print("Taş,Kağıt, Makas oyununa hoş geldinizn Oyunu bitirmek için q tuşuna basın")
+print("Taş,Kağıt, Makas oyununa hoşgeldinizn Oyunu bitirmek için q tuşuna basın")
 while True:
     secim = input("taş mı, kağıt mı, makas mı? ")
     bil_secim = random.choice(secenek)

@@ -1,6 +1,6 @@
 import random
 import time
-print("Sayı tahmin oyununa hoş geldiniz!n 1-100 arasında bir sayı tahmin edin")
+print("Sayı tahmin oyununa hoşgeldiniz!n 1-100 arasında bir sayı tahmin edin")
 sayi = random.randint(1,100)
 tahmin_hakki = 5
 while True:
